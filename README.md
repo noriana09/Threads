@@ -19,7 +19,8 @@ This project simulates a student transportation system using threads and POSIX s
 ## 🏗️ Compilation & Execution  
   - make
   - ./threads
-
-##Input
+  
+  
+-Input
   - a. give number of students and 
   - b. number of Bus capasity 
