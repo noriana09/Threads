@@ -12,8 +12,7 @@ This project simulates a student transportation system using threads and POSIX s
 
 ## ⚙️ Implementation Details  
 - Written in **C** using **POSIX threads** and **semaphores**.  
-- Uses **random(3)** for study time assignment.  
-- Includes a **Makefile** for compilation (`make all` and `make clean`).  
+- Uses **random(3)** for study time assignment.   
 - Prints messages to indicate student actions (arrival, boarding, studying, returning).  
 - Prevents starvation and ensures fair student transportation.  
 
